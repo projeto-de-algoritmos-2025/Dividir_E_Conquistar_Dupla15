@@ -30,7 +30,8 @@ Repositório destinado ao trabalho de Dividir e Conquistar da disciplina de Proj
 
 ---
 ### Screenshots de submissões
-![alt text](assets/subm1.png)
+<img width="1920" height="996" alt="image" src="https://github.com/user-attachments/assets/235e0e47-b96f-4577-83b2-9ae821345ff2" />
+
 
 [Exércicio 4 -  Median of Two Sorted Arrays - Difícil](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
