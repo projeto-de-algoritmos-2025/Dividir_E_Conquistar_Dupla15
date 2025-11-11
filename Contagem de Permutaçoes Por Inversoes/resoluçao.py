@@ -35,3 +35,13 @@ class Solution:
             # 4. Filtro: Aplicar a regra para o índice 'i'
             # Se existe uma regra para este prefixo, "zere" todas as
             # contagens de inversão 'j' que não batem com a regra.
+            if i in req_map:
+                cnt = req_map[i]
+                for j in range(MAX_K + 1):
+                    if j != cnt:
+                        dp[i][j] = 0 # Mata caminhos inválidos
+
+        # 5. Resultado:
+        # A resposta é a soma da última linha da DP, que já foi
+        # filtrada por todas as regras.
+        return sum(dp[n-1]) % MOD
