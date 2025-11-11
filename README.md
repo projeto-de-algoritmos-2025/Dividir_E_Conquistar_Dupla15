@@ -26,7 +26,7 @@ Repositório destinado ao trabalho de Dividir e Conquistar da disciplina de Proj
 ---
 ### Apresentação
 
-[Link da apresentação]
+[Link da apresentação](https://youtu.be/ET1rZDM4MK4)
 
 ---
 ### Screenshots de submissões
